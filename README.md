@@ -33,7 +33,7 @@ https://grafana.com/auth/sign-up/create-user?pg=hp&plcmt=hero-btn1&cta=create-fr
 
 With a little imagination and above all practice, you can also create dashboards like this:
 
-![Uploading Screenshot 2024-01-26 at 10.20.00.png…]()
+Screenshot 2024-01-26 at 10.20.00.png
 
 
 the obviously "interesting" thing is that you can consult the data of your Victron Energy devices quickly and easily from anywhere and customize them as you prefer.
