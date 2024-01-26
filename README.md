@@ -33,6 +33,7 @@ https://grafana.com/auth/sign-up/create-user?pg=hp&plcmt=hero-btn1&cta=create-fr
 
 With a little imagination and above all practice, you can also create dashboards like this:
 
-https://github.com/mk4001/VE.Direct2MQTT-2.0/blob/main/Screenshot%202024-01-26%20at%2010.20.00.png
+![Uploading Screenshot 2024-01-26 at 10.20.00.png…]()
+
 
 the obviously "interesting" thing is that you can consult the data of your Victron Energy devices quickly and easily from anywhere and customize them as you prefer.
