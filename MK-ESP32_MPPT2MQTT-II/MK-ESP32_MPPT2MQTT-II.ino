@@ -30,12 +30,12 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "WLAN 7490-2.4GHz";
-const char* password = "06431928919070006302";
-const char* mqttServer = "rpi.fritz.box";
+const char* ssid = "xxxxxxxxxxxxxxxxxxx"; //your SSID name
+const char* password = "yyyyyyyyyyyyyyy"; //your SSID password
+const char* mqttServer = "zzzzzzzzzzzzz"; //your MQTT Broker address
 const int mqttPort = 1883;
-//const char* mqttUser = "NOME_UTENTE_MQTT";
-//const char* mqttPassword = "PASSWORD_MQTT";
+//const char* mqttUser = "MQTT-username";
+//const char* mqttPassword = "MQTT_password";
 
 long rec_count = 0;
 
