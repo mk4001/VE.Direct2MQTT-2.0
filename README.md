@@ -10,7 +10,8 @@ It is necessary to create a simple adapter cable with the help of a JST 2.0 PH 4
 
 For the pins of the UART port in question, I only used PINs 1 (GND) and 3 (TX), then connected to Serial2 of a "DEVIT V1 ESP32-WROOM-32 Development Board" (GND and GPIO16 ports).
 
-Screenshot dated 07/20/2023 at 09 47 55
+<img width="1369" alt="Screenshot 2023-07-20 at 09 47 55" src="https://github.com/mk4001/VE.Direct2InfluxDB/assets/50479511/780e0403-754e-42f9-90fa-479fb00701fc">
+
 Data flows from the UART port at a rate of 1 record/sec.
 
 Detailed documentation of the fields, their format and content is collected here:
