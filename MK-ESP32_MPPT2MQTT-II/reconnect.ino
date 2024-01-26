@@ -1,3 +1,9 @@
+/*
+  © MK 15 Jan 2024
+  Write Victron Energy MPPT fields to MQTT
+  based on ESP32 Wroom using Uses VeDirectFrameHandler library
+*/
+
 void reconnect() {
   while (!client.connected()) {
     Serial.print("Connecting to MQTT...");
